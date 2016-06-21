@@ -14,14 +14,21 @@
         <div class="container">
             <h1><img id="headerImage" src="/img/head0.png" alt="Vít Ondráček" class="img-responsive"></h1>
             <div class="row">
-                <div class="col-xs-3">
+                <div class="col-lg-3 col-md-3 hidden-sm hidden-xs">
                     <ul class="menu list-unstyled">
                         <li class="works"><a href="dilo.html">Dílo</a></li>
                         <li class="bio"><a href="bio.html">Biografie</a></li>
                         <li class="writings"><a href="texty.html">Texty</a></li>
                     </ul>
                 </div>
-                <div class="col-xs-8">{{ content }}</div>
+                <div class="col-lg-7 col-md-8 col-xs-12">
+                    <ul class="menu-inline list-unstyled hidden-md hidden-lg">
+                        <li class="works"><a href="dilo.html">Dílo</a></li>
+                        <li class="bio"><a href="bio.html">Biografie</a></li>
+                        <li class="writings"><a href="texty.html">Texty</a></li>
+                    </ul>
+                    {{ content }}
+                </div>
             </div>
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

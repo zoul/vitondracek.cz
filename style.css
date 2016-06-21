@@ -29,7 +29,7 @@ h2 {
     line-height: 60px;
 }
 
-h2:first-child {
+h2:first-of-type {
     margin-top: 0px;
 }
 
@@ -48,21 +48,24 @@ ul:not(.list-unstyled) li:before {
 
 /* Menu */
 
-.menu {
+.menu, .menu-inline {
+    text-transform: lowercase;
     font-family: 'Oswald', sans-serif;
     font-size: 42px;
     line-height: 60px;
-    text-align: right;
-    text-transform: lowercase;
 }
 
-.menu a {
+.menu a, .menu-inline a {
     color: #444;
 }
 
-.menu a:hover {
+.menu a:hover, .menu-inline a:hover {
     text-decoration: none;
     color: red;
+}
+
+.menu {
+    text-align: right;
 }
 
 .menu li:after {
@@ -71,10 +74,37 @@ ul:not(.list-unstyled) li:before {
     color: rgba(0, 0, 0, 0.1);
 }
 
-body.bio li.bio:after,
-body.writings li.writings:after,
-body.works li.works:after {
+body.bio .menu li.bio:after,
+body.writings .menu li.writings:after,
+body.works .menu li.works:after {
     content: "❉";
     padding-left: 25px;
     color: #555;
+}
+
+/* Inline Menu */
+
+.menu-inline {
+    margin-top: -35px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 15px;
+}
+
+.menu-inline li {
+    display: inline-block;
+}
+
+.menu-inline li:not(:last-child):after {
+    content: "/";
+    padding-left: 0.5ex;
+    padding-right: 0.5ex;
+    color: rgba(0, 0, 0, 0.1);
+}
+
+body.bio .menu-inline li.bio a,
+body.writings .menu-inline li.writings a,
+body.works .menu-inline li.works a {
+    padding-bottom: 14px;
+    border-bottom: 3px solid #555;
 }
