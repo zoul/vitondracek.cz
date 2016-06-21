@@ -9,3 +9,26 @@ Od 4. srpna 1993, kdy potkal svou ženu Janu, uskutečňují společně celoživ
 
 Vít Ondráček se věnuje převážně volné tvorbě v malbě, grafice, kresbě a ilustraci. Ovládá desítky výtvarných technik. Píše poezii a prózu. (Od šestnácti let si píše Deník). Spolupracuje s rádiem Vltava a literárními časopisy. Výtvarně participuje na tvorbě krátkých experimentálních filmů. Svou malířskou a grafickou tvorbu vystavuje už čtyřicet let doma i v zahraničí.
 „Umění je to, co činí život zajímavějším než umění!“
+
+## Samostatné výstavy / výběr
+
+* Galerie Lužánky, Brno, 1995
+* Knihkupectví Paseka Praha, 1995
+* Kulturní dům v Nové Pace, 1995
+* Ambit Strahovského kláštera, Praha 1998
+* Galerie České spořitelny, Praha 2002
+* Galerie Muzea v Prostějově, 2004
+* Galerie Muzea v Kroměříži, 2004
+* Galerie Otakara Kubína, Boskovice, 2008
+* Galerie Pod radnicí, Ústí nad Orlicí, 2014
+* Galerie města Pardubic, 2014
+* Galéria 19, Bratislava, 2015
+* Galeria Miejska, Wroclaw, 2015
+* Galerie ČSAV, Praha, 2016
+
+## Společné výstavy
+
+* Grand Marché Berlin, Alexanderplatz, 1998 (společně s Olafem Hanelem)
+* Galerie Muzea ve Svitavách, 2000 (společně s Ludvíkem Kunderou)
+* Dactylograms series was exhibited in 2007–8 in Meisterblätter aus der Samlung der Internationale Biennale der Zeichnung Pilsen 2006 in Schönsee, in G Leerer Beutel Gallery in Regensburg, Germany, in Jon David Mooney Foundation, Chicago, USA, Birmingham and Sala Manza Gallery, Bergamo, Italy.
+* Centre Culturel de Couzeix, France, 2013 (12 artistes de Bohéme)
