@@ -2,7 +2,7 @@
 title: Proč štětec, proč sen, proč čerň
 author: Jaromír Typlt
 layout: default
-id: writings
+menu-id: writings
 ---
 
 Nechce si ani říkat malíř. Svou tvorbu nepovažuje za malířství – jenom za sen o malířství. Chová barvy v takové úctě, že se jich ani nedotkne. Tím usilovněji se je snaží vyvolávat na plátně pomocí různých poměrů šedi, černi a běli. Maluje bez barev, ale s vybičovanou vášní pro barevnost. Pojmenoval to Černá duha. A právem, neboť měnlivá tma jeho pláten skutečně jako duha září.
