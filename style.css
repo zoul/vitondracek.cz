@@ -51,6 +51,11 @@ ul:not(.list-unstyled) li:before {
     margin-bottom: 20px;
 }
 
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+
 /* Menu */
 
 .menu, .menu-inline {
@@ -58,15 +63,6 @@ ul:not(.list-unstyled) li:before {
     font-family: 'Oswald', sans-serif;
     font-size: 42px;
     line-height: 60px;
-}
-
-.menu a, .menu-inline a {
-    color: #444;
-}
-
-.menu a:hover, .menu-inline a:hover {
-    text-decoration: none;
-    color: red;
 }
 
 .menu {
