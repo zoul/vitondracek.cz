@@ -2,6 +2,8 @@
 title: Prostor ke snování staronových příběhů
 author: Ludvík Kundera
 source: z textu na zahájení výstavy (1998)
+layout: default
+id: writings
 ---
 
 Nad novými obrazy Víta Ondráčka jsem slyšel mudrovat nejednoho výtvarníka, tedy autorova kolegu. Jeden hlas pravil: jsou to fotografické experimenty, patrně práce s rozteklou emulzí na starých fotografických deskách. Druhý hlas mluvil o akvarelech a  s uznáním  kvitoval „práci štětci“, nejdrobnějšími štětečky. Třetí hlas sváděl vše do oblasti výtvarničení módně počítačového.

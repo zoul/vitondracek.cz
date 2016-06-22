@@ -2,6 +2,8 @@
 title: Gestický malíř-básník
 author: Ludvík Kundera
 source: zahajovací řeč z vernisáže výstavy v Galerii Národního domu v Prostějově, konané dne 2. 3. 2001
+layout: default
+id: writings
 ---
 
 Probírali jsme se před necelým týdnem v Ponětovicích víceméně celým dosavadním dílem Víta Ondráčka, překvapivými etapami, jimiž procházel, prolínavými – řekl bych – etapami, které se brání přísnému a přesnému ohraničení, probíhajíce prodlevami a návraty, nekončíce, nýbrž komihajíce v trvalém dění. Jako utajený literární detektiv jsem v malířově autokomentáři napočítal sedmkrát opakované slovo *gesto* nebo *gestický*. Mluvil o tom, že chce na svých obrazech *násobit gesta*, že se nebrání *gestickým zásahům*, a jaksi mimochodem, s ostychem, užil jedinkrát a pozastřeně termínu *gestická malba*. Bylo hned jasné, že nechápe gesto nějak „tělocvičně“, ve významu vyšinuté gestikulace, nýbrž že se blíží pojmu *gestus*, známému dosud spíše z teorie dramatu a z praxe divadla. Tedy gestus jako trvalý vnitřní dialog, jako výraz postoje vůči věcem a lidem, vůči fyzickému světu, vůči době, ale i času v rozměru až metafyzickém.

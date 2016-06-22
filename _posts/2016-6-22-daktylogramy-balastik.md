@@ -2,6 +2,8 @@
 title: Poznání vzdáleně cizího
 author: Miroslav Balaštík
 source: text na zahájení výstavy (1999)
+layout: default
+id: writings
 ---
 
 Z několika málo vernisáží, které jsem do této doby absolvoval, mi z úvodních slov utkvěla v paměti jen ona závěrečná floskule „ale dosti řečí, ať obrazy mluví samy za sebe“. Přiznám se, že samy za sebe pro mne obrazy nemluví. Nejsem výtvarný teoretik ani poučený milovník malířství, abych věděl, co mám na obraze hledat, čeho si všimnout, co obdivovat a co případně hanět. Cestu k obrazu mi téměř vždy otevírá nějaká vnější událost, která s obrazem na první pohled vůbec nesouvisí: nepatrný detail zahlédnutý kdysi skulinou oka, bezprostřední vjem nějaké skutečnosti, setkání či dokonce až poznání jeho autora. Na rozdíl od literatury, která je mi především rozvrhem, do nějž mohu projektovat své vlastní zkušenosti, a znalost tvůrce tak spíše překáží, vnímám výtvarné dílo spíše jako otisk nějakého konkrétního duchovního vesmíru, jemuž mohu porozumět skrze vnější iniciaci a s nímž mohu bytovat v analogiích a průnicích s mým vlastním světem. Jinými slovy: zatímco literatura se zdá být takřka bezprostředním sebepoznáním, u obrazů je to prvotně poznání něčeho či někoho vzdáleně cizího. Jinými slovy: mocnost obrazu spočívá v tom, že dává vidět jinýma očima, dokáže divákovi darovat nový zrak, aniž současně odnímal jeho vlastní.

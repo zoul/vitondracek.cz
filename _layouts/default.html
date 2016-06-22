@@ -17,9 +17,9 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 hidden-sm hidden-xs">
                     <ul class="menu list-unstyled">
-                        <li class="works"><a href="dilo.html">Dílo</a></li>
-                        <li class="bio"><a href="bio.html">Biografie</a></li>
-                        <li class="writings"><a href="texty.html">Texty</a></li>
+                        <li class="works"><a href="/dilo.html">Dílo</a></li>
+                        <li class="bio"><a href="/bio.html">Biografie</a></li>
+                        <li class="writings"><a href="/texty.html">Texty</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-7 col-md-8 col-xs-12">
@@ -28,7 +28,18 @@
                         <li class="bio"><a href="bio.html">Biografie</a></li>
                         <li class="writings"><a href="texty.html">Texty</a></li>
                     </ul>
-                    {{ content }}
+                    {% if page.date %}
+                        <h2>{{ page.title }}</h2>
+                        <p class="article-info">
+                            {{ page.author}}<!--
+                            -->{% if page.source %},
+                                {{ page.source }}
+                            {% endif %}
+                        </p>
+                        {{ page.content }}
+                    {% else %}
+                        {{ content }}
+                    {% endif %}
                 </div>
             </div>
         </div>
