@@ -6,4 +6,5 @@ id: works
 {% for technika in site.data.techniky %}
 <h2 id="{{ technika.id }}">{{ technika.nazev }} <small>{{ technika.cas }}</small></h2>
 <p>{{ technika.text }}</p>
+{% include gallery.html id=technika.id %}
 {% endfor %}

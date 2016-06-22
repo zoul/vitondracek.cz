@@ -127,3 +127,15 @@ body.works .menu-inline li.works a {
 .article-preview {
     margin-bottom: 20px;
 }
+
+/* Images */
+
+.gallery {
+    margin-top: 20px;
+}
+
+.img-thumbnail {
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

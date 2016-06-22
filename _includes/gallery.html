@@ -1,0 +1,7 @@
+<div class="gallery">
+    {% for photo in site.data.fotky[include.id] %}
+    <a href="{{ photo.url }}" class="fancybox" rel="fotky">
+        <img src="{{ photo.nahled }}" alt="{{ photo.alt }}" class="img-thumbnail">
+    </a>
+    {% endfor %}
+</div>
