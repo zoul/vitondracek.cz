@@ -46,6 +46,11 @@ ul:not(.list-unstyled) li:before {
     padding-right: 1ex;
 }
 
+.img-responsive {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 /* Menu */
 
 .menu, .menu-inline {
