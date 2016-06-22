@@ -74,7 +74,7 @@ ul:not(.list-unstyled) li:before {
 }
 
 .menu li:after {
-    content: "❉";
+    content: "✕";
     padding-left: 25px;
     color: rgba(0, 0, 0, 0.1);
 }
@@ -82,7 +82,7 @@ ul:not(.list-unstyled) li:before {
 body.bio .menu li.bio:after,
 body.writings .menu li.writings:after,
 body.works .menu li.works:after {
-    content: "❉";
+    content: "✕";
     padding-left: 25px;
     color: #555;
 }
