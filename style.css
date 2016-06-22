@@ -108,3 +108,17 @@ body.works .menu-inline li.works a {
     padding-bottom: 14px;
     border-bottom: 3px solid #555;
 }
+
+/* Articles */
+
+.article-info {
+    margin-top: -10px;
+    color: rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+    line-height: 1.4em;
+    font-size: 90%;
+}
+
+.article-preview {
+    margin-bottom: 20px;
+}
