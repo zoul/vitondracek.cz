@@ -23,7 +23,7 @@ h1 {
 
 /* Typography */
 
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Oswald', sans-serif;
 }
 
@@ -37,6 +37,13 @@ h2 {
 
 h2:first-of-type {
     margin-top: 0px;
+}
+
+h3 {
+    color: rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+    line-height: 1.4em;
+    font-size: 90%;
 }
 
 ul {
@@ -84,6 +91,7 @@ a:hover {
 body.bio .menu li.bio:after,
 body.writings .menu li.writings:after,
 body.works .menu li.works:after,
+body.denik .menu li.denik:after,
 body.films li.films::after {
     content: "✕";
     padding-left: 25px;
