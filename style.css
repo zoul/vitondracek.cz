@@ -92,7 +92,7 @@ body.bio .menu li.bio:after,
 body.writings .menu li.writings:after,
 body.works .menu li.works:after,
 body.denik .menu li.denik:after,
-body.films li.films::after {
+body.films .menu li.films::after {
     content: "✕";
     padding-left: 25px;
     color: #555;
@@ -120,8 +120,9 @@ body.films li.films::after {
 
 body.bio .menu-inline li.bio a,
 body.writings .menu-inline li.writings a,
-body.works .menu-inline li.works a {
-    padding-bottom: 14px;
+body.works .menu-inline li.works a,
+body.denik .menu-inline li.denik a,
+body.films .menu-inline li.films a {
     border-bottom: 3px solid #555;
 }
 
